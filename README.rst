@@ -15,4 +15,4 @@ References
 
 .. target-notes::
 
-.. _`Sound of text WA Keren`: https://www.teknotuf.com/sound-of-text-wa/
+.. _`Sound of text WA Keren`: https://soundtext.github.io
